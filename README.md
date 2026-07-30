@@ -30,7 +30,7 @@ This repository is the home of JUnit Platform, Jupiter, and Vintage.
 
 ## Contributing
 
-Contributions to JUnit are both welcomed and appreciated. For specific guidelines
+Contributions to  JUnit are both welcomed and appreciated. For specific guidelines
 regarding contributions, please see [CONTRIBUTING.md] in the root directory of the
 project. Those willing to use milestone or SNAPSHOT releases are encouraged
 to file feature requests and bug reports using the project's
